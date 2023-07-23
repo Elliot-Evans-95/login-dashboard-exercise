@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Really cool post",
+      "slug": "really-cool-post",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
+      "author": "Joe Blogs",
+      "action": "edit",
+      "link": "really-cool-post/edit"
+    },
+    {
+      "id": 2,
+      "title": "Get started with Vite",
+      "slug": "get-started-vite",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
+      "author": "Joe Blogs",
+      "action": "edit",
+      "link": "get-started-vite/edit"
+    },
+    {
+      "id": 3,
+      "title": "Test your components",
+      "slug": "test-your-components",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
+      "author": "Joe Blogs",
+      "action": "edit",
+      "link": "really-cool-post/edit"
+    },
+    {
+      "id": 4,
+      "title": "Power of NX",
+      "slug": "power-of-nx",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
+      "author": "Joe Blogs",
+      "action": "edit",
+      "link": "really-cool-post/edit"
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "text": "Edit your profile",
+      "link": "edit-profile"
+    }
+  ],
+  "profile": {
+    "name": "Joe Blogs",
+    "profile_icon": "https://static.vecteezy.com/system/resources/previews/005/544/718/original/profile-icon-design-free-vector.jpg"
+  }
+}
